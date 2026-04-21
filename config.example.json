@@ -1,12 +1,12 @@
 {
-  "name": "Innei's Afilmory",
-  "title": "Innei's Afilmory",
+  "name": "Scopor's Afilmory",
+  "title": "Scopor's Afilmory",
   "description": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.",
-  "url": "https://afilmory.innei.in/",
+  "url": "https://gallery.scopor.me/",
   "accentColor": "#007bff",
   "author": {
-    "name": "Innei",
-    "url": "https://innei.in/",
+    "name": "Scopor",
+    "url": "https://scopor.me/",
     "avatar": "https://cdn.jsdelivr.net/gh/Innei/static@master/avatar.png"
   },
   "social": {
